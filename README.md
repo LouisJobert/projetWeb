@@ -1,2 +1,2 @@
 # projetWeb
-Projet final développement site Web<br>Stack: JS-PHP-Symfony-Css
+Projet final développement d'un site Web<br>Stack: JS-PHP-Symfony-Css
